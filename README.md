@@ -12,9 +12,9 @@ Follow instructions : Go to [https://miqcraft-theme.netlify.com](https://miqcraf
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
 
 # Screenshots
-![Preview 1](https://miqcraft-theme.netlify.app/assets/img/classroom1.png)
+![Preview 1](https://miqcraft-theme.netlify.app/assets/img/classroom1.jpg)
 
-![Preview 2](https://miqcraft-theme.netlify.app/assets/img/classroom2.png)
+![Preview 2](https://miqcraft-theme.netlify.app/assets/img/classroom2.jpg)
 
 
 # License
